@@ -1,0 +1,16 @@
+com.example.appflyer_poc.app-jetified-window-1.0.0-beta04-0 /Users/apple/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.appflyer_poc.app-jetified-annotation-experimental-1.1.0-1 /Users/apple/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.appflyer_poc.app-core-1.6.0-2 /Users/apple/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.appflyer_poc.app-jetified-af-android-sdk-6.12.2-3 /Users/apple/.gradle/caches/transforms-3/a0e47c93860d64215455f7b14c69b632/transformed/jetified-af-android-sdk-6.12.2/res
+com.example.appflyer_poc.app-jetified-window-java-1.0.0-beta04-4 /Users/apple/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.appflyer_poc.app-coordinatorlayout-1.0.0-5 /Users/apple/.gradle/caches/transforms-3/c0c5f8382331f2d900d2cb549c45e898/transformed/coordinatorlayout-1.0.0/res
+com.example.appflyer_poc.app-appcompat-1.0.0-6 /Users/apple/.gradle/caches/transforms-3/ed6cbc00c9224cd33adf3577c30731c8/transformed/appcompat-1.0.0/res
+com.example.appflyer_poc.app-debug-7 /Users/apple/Desktop/appflyer_poc/android/app/src/debug/res
+com.example.appflyer_poc.app-main-8 /Users/apple/Desktop/appflyer_poc/android/app/src/main/res
+com.example.appflyer_poc.app-pngs-9 /Users/apple/Desktop/appflyer_poc/build/app/generated/res/pngs/debug
+com.example.appflyer_poc.app-resValues-10 /Users/apple/Desktop/appflyer_poc/build/app/generated/res/resValues/debug
+com.example.appflyer_poc.app-rs-11 /Users/apple/Desktop/appflyer_poc/build/app/generated/res/rs/debug
+com.example.appflyer_poc.app-mergeDebugResources-12 /Users/apple/Desktop/appflyer_poc/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.appflyer_poc.app-mergeDebugResources-13 /Users/apple/Desktop/appflyer_poc/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.appflyer_poc.app-merged_res-14 /Users/apple/Desktop/appflyer_poc/build/app/intermediates/merged_res/debug
+com.example.appflyer_poc.app-packaged_res-15 /Users/apple/Desktop/appflyer_poc/build/appsflyer_sdk/intermediates/packaged_res/debug
